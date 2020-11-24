@@ -1,0 +1,47 @@
+header found : from <math.h>
+singleLineComment found : !!this is a single line
+multipleLineComment found : (!-this is a double line comment -!)
+function found : fun x (int a,int b)
+5P2 is 20
+Equivalent decimal number of 1010111 is: 87
+Variable a can't be declared twice
+Declaration
+Value of the variable: 2	
+Value of the variable: 1	
+Value of the variable: 5	
+Reverse of the number = 321
+value of exp in ELSE: 1
+Print Switch expression value 1
+Print Switch expression value 2
+Print Switch expression value 3
+Print Switch expression value 40
+Print exp 2
+Value of Log10(100) is 2.000000
+value of exp: 59
+Value of Log(16) is 2.772589
+value of exp: 59
+value of exp: 16
+Square root of the number = 5
+value of exp: 5
+Value of Sin(30) is 0.500001
+value of exp: 59
+29 is a prime number.
+value of exp: 59
+Value of the variable: 6	
+value of the loop: 1 exp value: 6
+value of the loop: 2 exp value: 6
+value of the loop: 3 exp value: 6
+value of the loop: 4 exp value: 6
+value of the loop: 5 exp value: 6
+
+Triangle of 3:
+    * 
+  * * * 
+* * * * * 
+
+Value of the Factorial: 24
+Maximum of the two numbers = 7
+Minimum of the two numbers = 4
+G.C.D of 3 and 6 is 3
+L.C.M of 3 and 6 is 6
+Summation bewteen 4 and 7 is: 22

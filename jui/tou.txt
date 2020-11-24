@@ -1,0 +1,15 @@
+@include <stdio.h>
+int x1, x2;
+float p1,p2;
+!! single line comment
+(!- double line comment -!)
+main:
+{
+    x1=6;
+    x2=5+x1;
+    if(5==1) show("equal");
+    else show("not equal");
+   for(1 to 5)
+    show(x1);
+
+}

@@ -1,0 +1,57 @@
+from <math.h>
+
+!!this is a single line
+
+(!-this is a double line comment -!)
+
+fun x (int a,int b) 
+startup:
+{
+	per(5,2);
+	binaryToDecimal(1010111);
+	INT a,b,c,a;
+	a=2;
+	b=1;
+	c=5;
+	rev(123);
+	IF(b>a)
+	{
+		a+b;
+	}
+	ELSE
+	{
+		a-b;
+	}
+
+	SWITCH ( a )
+	{
+	CASE 1 :
+		SHOW(1); 
+	CASE 2 :
+		SHOW(2); 
+	CASE 3 : 
+		SHOW(3); 
+	DEFAULT :
+		SHOW(40); 
+	}
+	SHOW(a);
+	LOG10(100);
+	LOG(16);
+	2^4;
+	root(25);
+	SIN(30);
+	prime(29);
+	LOOP (1:5)
+	{
+	a=b+c;
+	}
+	Triangle 3;
+        fact(4);
+        max(7,3);
+	min(10,4);
+	gcd(3,6);
+	lcm(3,6);
+	sum(4,7);
+
+}	
+
